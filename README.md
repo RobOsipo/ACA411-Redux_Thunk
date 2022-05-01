@@ -1,7 +1,7 @@
 ## Instructions
 
 Call the News API to populate a list of news articles using Redux Thunk
-
+ 
 ------------------------------------------------------------
 
 * Look at the `state.js` file under the redux folder. You should see just one property called articles with an empty array present. We will populate (or replace) the array with data from the News API.
